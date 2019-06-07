@@ -1,3 +1,4 @@
+//How do you reverse a given string in place?
 (function(){
     const SUBJECT = "some strings";
     let s = SUBJECT.split('');
