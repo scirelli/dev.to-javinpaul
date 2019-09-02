@@ -23,4 +23,3 @@ function isRotation(str1, str2) {
 [['abc', 'bca'], ['cba', 'abc']].forEach((test)=> {
     console.log(isRotation(test[0], test[1]));
 });
-
